@@ -1,4 +1,4 @@
-# Computer_Structure
+# Computer Structure
 
 Este repositorio contiene un conjunto de ejercicios tomados del curso en [Estructura de computadores](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-803267) en la [UCM](https://www.ucm.es/ "Universidad Complutense de Madrid").
 
