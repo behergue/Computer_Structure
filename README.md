@@ -1,12 +1,12 @@
 # Computer Structure
 
-Este repositorio contiene un conjunto de ejercicios tomados del curso en [Estructura de computadores](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-803267) en la [UCM](https://www.ucm.es/ "Universidad Complutense de Madrid").
+Este repositorio contiene un conjunto de ejercicios tomados del curso en [Estructura de Computadores](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-803267) en la [UCM](https://www.ucm.es/ "Universidad Complutense de Madrid").
 
 ## Prácticas
 
-| Práctica &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Enunciado           | Solución           |
-| ------------- |:-------------:| :-------------:|
-| Práctica 1: Entorno de programación y representación de la información | [Enlace](Code/P1-EC.pdf) | [Enlace](Code/PR1/) |
-| Práctica 2: Entrada/salida mediante espera de respuesta | [Enlace](Code/P2-EC.pdf)| [Enlace](Code/PR2/) |
-| Práctica 3: Entrada/salida mediante interrupciones vectorizadas | [Enlace](Code/P3-EC.pdf)| [Enlace](Code/PR3/) |
-| Práctica 4: Juego Mastermind con consola serie | [Enlace](Code/P4-EC.pdf) | [Enlace](Code/PR4/) |
+| Práctica &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Solución           |
+| ------------- | :-------------:|
+| Práctica 1: Entorno de programación y representación de la información | [Enlace](Code/PR1/) |
+| Práctica 2: Entrada/salida mediante espera de respuesta | [Enlace](Code/PR2/) |
+| Práctica 3: Entrada/salida mediante interrupciones vectorizadas | [Enlace](Code/PR3/) |
+| Práctica 4: Juego Mastermind con consola serie | [Enlace](Code/PR4/) |
